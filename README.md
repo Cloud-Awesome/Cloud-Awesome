@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Microsoft developer and technical developer, working primarily for central government and financial services.
+I'm a Microsoft developer and technical architect, working primarily for central government and financial services.
 
 ## Dynamics 365
 
