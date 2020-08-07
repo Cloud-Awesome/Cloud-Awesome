@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Microsoft developer working primarily for central government and financial services.
+I'm a Microsoft developer and technical developer, working primarily for central government and financial services.
 
 ## Dynamics 365
 
@@ -19,14 +19,3 @@ I'm a Microsoft developer working primarily for central government and financial
 
 - [d365-pbi-documentation](https://github.com/Cloud-Awesome/d365-pbi-documentation) -> Several templates to auto-generate documentation for a D365 environment 
 - [azdo-pbi-templates]() -> Templates for reporting on Azure DevOps boards
-
-
-<!--
-
-I'm Arthur Nicholson-Gumuła and I'm technical architect and developer in the Microsoft cloud space.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
--->
