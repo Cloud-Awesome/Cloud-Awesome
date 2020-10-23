@@ -15,7 +15,7 @@ Here's some of the (largely extracurricular!) projects I'm working on
 ## GDS Templates
 
 - [gds-wireframe-stencils](https://github.com/Cloud-Awesome/gds-wireframe-stencils) -> Stencils to create GDS wireframes in Visio, PowerPoint etc. or print out to stick on the wall in a design workshop
-- Plus [power-portal-gds-framework](https://github.com/Cloud-Awesome/power-portal-gds-framework) and [power-portal-gds-test](https://github.com/Cloud-Awesome/power-portal-gds-test) listed above
+- Plus [power-portal-gds-accelerator](https://github.com/Cloud-Awesome/power-portal-gds-framework) and [power-portal-gds-test](https://github.com/Cloud-Awesome/power-portal-gds-test) listed above
 
 ## Power BI
 
