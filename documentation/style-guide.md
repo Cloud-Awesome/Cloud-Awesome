@@ -76,6 +76,7 @@
 
 ### Agile Artifacts
 - Scrum guide reference?
+- Definition of done (with samples)
 
 #### Product Backlog
 - Epics
