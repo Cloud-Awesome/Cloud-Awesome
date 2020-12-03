@@ -21,6 +21,7 @@
 - Branching strategies, Pull Requests, 
 - Tagging, Releases
 - Release notes (in `documentation` below )
+- Well formed commit messages
 
 ## Code
 ### General
@@ -64,6 +65,7 @@
 - Where referenced guides disagree, highlight your decision
 - Examples, etc...
 - Have plenty of footnotes/references where required to save on duplicating stuff
+- yaml pipelines for testing conformation to style guide 
 
 ### Solution Documentation
 - XML comments
