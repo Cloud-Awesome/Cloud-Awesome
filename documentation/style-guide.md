@@ -4,6 +4,9 @@
 > Guide on how to manage the code, documentation and solutions in these repos.
 > And can be used as a basis for customer projects when no prior baseline exists
 
+[![In progress](assets/Status-InProgress.svg)]
+
+
 #### to do
 - [ ] Turn this page into a TOC
 - [ ] Have a brief 'elevator pitch' precis under each header
