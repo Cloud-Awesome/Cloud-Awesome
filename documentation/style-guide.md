@@ -4,7 +4,7 @@
 > Guide on how to manage the code, documentation and solutions in these repos.
 > And can be used as a basis for customer projects when no prior baseline exists
 
-[![In progress](assets/Status-InProgress.svg)]
+![In progress](assets/Status-InProgress.svg)
 
 
 #### to do
