@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Microsoft developer and technical architect, working primarily for central government and financial services in the UK.
+I'm a developer and technical architect (Microsoft stack), working primarily for central government and financial services in the UK.
 
 Here's some of the (largely extracurricular!) projects I'm working on
 
@@ -21,3 +21,7 @@ Here's some of the (largely extracurricular!) projects I'm working on
 
 - [d365-pbi-documentation](https://github.com/Cloud-Awesome/d365-pbi-documentation) -> Several templates to auto-generate documentation for a D365 environment 
 - [azdo-pbi-templates]() -> Templates for reporting on Azure DevOps boards
+
+## General
+
+- [style-guide-and-best-practices](https://github.com/Cloud-Awesome/Cloud-Awesome/blob/master/documentation/style-guide.md) -> Guide on code style, documentation and project artifacts. Can be user as a basis for projects when no prior baseline exists
