@@ -1,1 +1,0 @@
-## Platforms and Applications
