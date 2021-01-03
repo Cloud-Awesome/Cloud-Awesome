@@ -19,6 +19,7 @@ Here's some of the (largely extracurricular!) projects I'm working on
 
 ## Power BI
 
+- [powerbi-source-control]() -> Extract .pbit files into component files for data model schema, report pages, layout, etc. to enable change tracking within a git repo
 - [d365-pbi-documentation](https://github.com/Cloud-Awesome/d365-pbi-documentation) -> Several templates to auto-generate documentation for a D365 environment 
 - [azdo-pbi-templates]() -> Templates for reporting on Azure DevOps boards
 
