@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer and technical architect (Microsoft stack), working primarily for central government and financial services in the UK.
+I'm a developer and technical architect (Microsoft cloud), working primarily for central government and financial services in the UK.
 
 Here's some of the (largely extracurricular!) projects I'm working on
 
@@ -11,6 +11,11 @@ Here's some of the (largely extracurricular!) projects I'm working on
 - [power-portal-test-framework](https://github.com/Cloud-Awesome/power-portal-test-framework) -> Basic test framework extending selenium web driver for Dynamics Portals
 - [power-portal-gds-accelerator](https://github.com/Cloud-Awesome/d365-portals-gds) -> All the portal configuration records required to set up a new portal using UK GDS patterns
 - [power-portal-gds-test](https://github.com/Cloud-Awesome/d365-portals-gds-test) -> Extends the portal test framework for the GDS portal accelerator
+
+## Azure
+
+- [cds-integration](https://github.com/Cloud-Awesome/cds-integration) -> D365 integration accelerator including Azure Functions apps, Service bus, KeyVault store, App insights, Blob storage and ARM templates
+- [cds-sharepoint](https://github.com/Cloud-Awesome/cds-sharepoint) -> Resolve standrad SharePoint service throttling issues; Synchronise security, access models and metadata between D365 and SharePoint
 
 ## GDS Templates
 
