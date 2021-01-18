@@ -4,7 +4,7 @@ I'm a developer and technical architect, working primarily for central governmen
 
 Here's some of the (largely extracurricular!) projects I'm working on
 
-## Dynamics 365
+## Dataverse (Dynamics 365/CDS)
 
 - [cds-core](https://github.com/Cloud-Awesome/cds-core) -> Helpers and extension classes for D365 extension
 - [cds-customisation](https://github.com/Cloud-Awesome/cds-customisation) -> Automate common customisation and configuration tasks
