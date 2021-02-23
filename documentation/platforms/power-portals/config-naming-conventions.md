@@ -175,7 +175,8 @@ e.g.
 
 or 
 
-- GrantManagement/Manager
+- GrantManagement/Administrator
+- GrantManagement/Approver
 - TravelCentre/Administrator
 
 ## Entity permissions
