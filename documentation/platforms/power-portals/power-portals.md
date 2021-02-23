@@ -16,6 +16,8 @@
 - Record naming conventions
 - Consider: prefer external (Azure-hosted) artifacts (JavaScript, etc) to CRM-hosted?
 
+[Naming conventions](config-naming-conventions.md)
+
 ## Liquid
 
 - Preference for liquid over client-side script
