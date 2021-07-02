@@ -7,7 +7,7 @@ Here's some of the (largely extracurricular!) projects I'm working on
 ## Dataverse (Dynamics 365/CDS)
 
 - [cds-core](https://github.com/Cloud-Awesome/cds-core) -> Helpers and extension classes for D365 extension
-- [cds-customisation](https://github.com/Cloud-Awesome/cds-customisation) -> Automate common customisation and configuration tasks
+- [cds-customisation](https://github.com/Cloud-Awesome/cds-customisation) -> Automate common customisation and configuration tasks such as entity creation, plugin registration, and migrating non-solution aware components
 - [power-portal-test-framework](https://github.com/Cloud-Awesome/power-portal-test-framework) -> Basic test framework extending selenium web driver for Dynamics Portals
 - [power-portal-gds-accelerator](https://github.com/Cloud-Awesome/d365-portals-gds) -> All the portal configuration records required to set up a new portal using UK GDS patterns
 - [power-portal-gds-test](https://github.com/Cloud-Awesome/d365-portals-gds-test) -> Extends the portal test framework for the GDS portal accelerator
