@@ -30,4 +30,5 @@ Here's some of the (largely extracurricular!) projects I'm working on
 
 ## General
 
+- [markdown-maker](https://github.com/Cloud-Awesome/markdown-maker) -> Lightweight library to assist creation of .md files (in GitHub and DocFx styles)
 - [style-guide-and-best-practices](https://github.com/Cloud-Awesome/Cloud-Awesome/blob/master/documentation/style-guide.md) -> Guide on code style, documentation and project artifacts. Can be user as a basis for projects when no prior baseline exists
