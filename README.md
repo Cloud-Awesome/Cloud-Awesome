@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer and technical architect, working primarily for central government and financial services in the UK. I specialise in the Microsoft cloud space - Azure, Dynamics365 and Business intelligence 
+I'm a developer and technical architect, working primarily for central government, health and financial services in the UK. I specialise in the Microsoft cloud space - Azure, Dynamics365 and Business intelligence 
 
 Here's some of the (largely extracurricular!) projects I'm working on
 
