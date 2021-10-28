@@ -14,8 +14,8 @@ Here's some of the (largely extracurricular!) projects I'm working on
 
 ## Azure
 
-- [cds-integration](https://github.com/Cloud-Awesome/cds-integration) -> D365 integration accelerator including Azure Functions apps, Service bus, KeyVault store, App insights, Blob storage and ARM templates
-- [cds-sharepoint](https://github.com/Cloud-Awesome/cds-sharepoint) -> Resolve standard SharePoint service throttling issues; Synchronise security, access models and metadata between D365 and SharePoint
+- [~~cds-integration~~](https://github.com/Cloud-Awesome/cds-integration) -> (In progress) D365 integration accelerator including Azure Functions apps, Service bus, KeyVault store, App insights, Blob storage and ARM templates
+- [~~cds-sharepoint~~](https://github.com/Cloud-Awesome/cds-sharepoint) -> (In progress) Resolve standard SharePoint service throttling issues; Synchronise security, access models and metadata between D365 and SharePoint
 
 ## GDS Templates
 
