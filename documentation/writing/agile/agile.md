@@ -1,6 +1,11 @@
 ### Agile Artifacts
 - Scrum guide reference?
 - Definition of done (with samples)
+    - for dev/test team only
+    - for full CI/CD 
+    - D365-specific
+    - Azure/Integration-specific
+    - 
 
 #### Product Backlog
 - Epics
@@ -8,9 +13,22 @@
 - User Stories
 - Tasks
 - Bugs
-- (Primarily for Azure Boards, but can include some other comments for GitHub issues)
+- Platforms:
+    - Azure Boards
+    - GitHub issues/projects/milestones etc.
+    - Use of PBI for reporting?
+        - plus sample pbits?
 
 #### Sprint artifacts
 - Product goal
 - Sprint goal
 - Retros/Standups
+
+#### DevOps
+- Define a shared understanding of what DevOps is
+- The DevOps 8 cycle (not a uni-directional process!)
+- Sub-sections for
+    - CI
+    - CD
+    - Feedback and telemetry
+- Agreement/implementation of a DevOps culture
