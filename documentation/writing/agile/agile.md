@@ -19,6 +19,13 @@
     - Story pointing guidance
 - Tasks
 - Bugs
+    - Definition of a bug
+        - When to raise a big as opposed to have a conversation with a dev
+        - Format of details to be provided
+        - Definition of Done
+            - Not only giving bug
+            - Automated test to avoid regression
+            - Specific data for failing scenario?
 - Platforms:
     - Azure Boards
     - GitHub issues/projects/milestones etc.
