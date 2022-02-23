@@ -11,6 +11,12 @@
 - Epics
 - Features
 - User Stories
+    - Preferred format
+        - A [...] can [...], [[so that [...]]]
+        - Why this is preferred..?
+    - Alt format
+        - As a [...], I want to [...], so that I can [...]
+    - Story pointing guidance
 - Tasks
 - Bugs
 - Platforms:
@@ -18,6 +24,7 @@
     - GitHub issues/projects/milestones etc.
     - Use of PBI for reporting?
         - plus sample pbits?
+
 
 #### Sprint artifacts
 - Product goal
