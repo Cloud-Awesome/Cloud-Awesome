@@ -14,6 +14,7 @@
     - Preferred format
         - A [...] can [...], [[so that [...]]]
         - Why this is preferred..?
+        - Scenarios under the story is where the extended detail should be
     - Alt format
         - As a [...], I want to [...], so that I can [...]
     - Story pointing guidance
